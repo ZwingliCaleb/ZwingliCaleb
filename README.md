@@ -1,5 +1,7 @@
 
-## 🌐 Socials:
+### Caleb Zwingli
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-zwingli-566b5320b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@calebzwingli) 
 
 # 💻 Tech Stack:

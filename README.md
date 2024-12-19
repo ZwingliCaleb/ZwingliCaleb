@@ -2,7 +2,8 @@
 # CALEB ZWINGLI
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-zwingli-566b5320b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@calebzwingli) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-zwingli-566b5320b/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@calebzwingli) 
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,6 +31,7 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZwingliCaleb&theme=dark&hide_border=false)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZwingliCaleb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
